@@ -4,6 +4,15 @@ The log of my #100DaysOfCode challenge. Started on [July 21, Sunday, 2019].
 
 ## Log
 
+### R1D55: November 9, 2019 
+
+**Today's Progress**: Finished the "What you should already have" section of the guide
+
+**Thoughts:** It feels great to be back coding after one long break from doing this. I am researching on what to add in my Tekken 7 guide from a variety of sources. Watching YouTube videos, reading Tekken 7 guides, and absorbing the basic stuff.
+
+
+**Link to work:** [Tekken 7 Guide](https://codepen.io/Micmix03/details/oNvOjar)
+
 ### R1D54: October 16, 2019 
 
 **Today's Progress**: Finished some dark theme CSS code and added custom scroll bars
